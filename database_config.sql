@@ -7,7 +7,7 @@ USE predicted_output;
 DROP TABLE IF EXISTS predicted_output;
 CREATE TABLE predicted_output
 (
-	reason_1 BIT NOT NULL,
+    reason_1 BIT NOT NULL,
     reason_2 BIT NOT NULL,
     reason_3 BIT NOT NULL,
     reason_4 BIT NOT NULL,
