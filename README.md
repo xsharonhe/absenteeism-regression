@@ -1,4 +1,6 @@
 # absenteeism-regression
+Taken under 365 Data Science Program's SQL/Python/Tableau course
+
 **Data source:** https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work
 
 # Problem
